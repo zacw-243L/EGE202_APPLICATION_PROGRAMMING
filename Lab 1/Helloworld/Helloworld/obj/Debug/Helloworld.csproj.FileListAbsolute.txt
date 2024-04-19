@@ -1,0 +1,21 @@
+D:\Utilities\Programing\Repos\Helloworld\Helloworld\bin\Debug\Helloworld.exe.config
+D:\Utilities\Programing\Repos\Helloworld\Helloworld\bin\Debug\Helloworld.exe
+D:\Utilities\Programing\Repos\Helloworld\Helloworld\bin\Debug\Helloworld.pdb
+D:\Utilities\Programing\Repos\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.AssemblyReference.cache
+D:\Utilities\Programing\Repos\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.SuggestedBindingRedirects.cache
+D:\Utilities\Programing\Repos\Helloworld\Helloworld\obj\Debug\Helloworld.Form1.resources
+D:\Utilities\Programing\Repos\Helloworld\Helloworld\obj\Debug\Helloworld.Properties.Resources.resources
+D:\Utilities\Programing\Repos\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.GenerateResource.cache
+D:\Utilities\Programing\Repos\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.CoreCompileInputs.cache
+D:\Utilities\Programing\Repos\Helloworld\Helloworld\obj\Debug\Helloworld.exe
+D:\Utilities\Programing\Repos\Helloworld\Helloworld\obj\Debug\Helloworld.pdb
+D:\Utilities\Programing\Repos\C# .Net\Helloworld\Helloworld\bin\Debug\Helloworld.exe.config
+D:\Utilities\Programing\Repos\C# .Net\Helloworld\Helloworld\bin\Debug\Helloworld.exe
+D:\Utilities\Programing\Repos\C# .Net\Helloworld\Helloworld\bin\Debug\Helloworld.pdb
+D:\Utilities\Programing\Repos\C# .Net\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.AssemblyReference.cache
+D:\Utilities\Programing\Repos\C# .Net\Helloworld\Helloworld\obj\Debug\Helloworld.Form1.resources
+D:\Utilities\Programing\Repos\C# .Net\Helloworld\Helloworld\obj\Debug\Helloworld.Properties.Resources.resources
+D:\Utilities\Programing\Repos\C# .Net\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.GenerateResource.cache
+D:\Utilities\Programing\Repos\C# .Net\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.CoreCompileInputs.cache
+D:\Utilities\Programing\Repos\C# .Net\Helloworld\Helloworld\obj\Debug\Helloworld.exe
+D:\Utilities\Programing\Repos\C# .Net\Helloworld\Helloworld\obj\Debug\Helloworld.pdb
