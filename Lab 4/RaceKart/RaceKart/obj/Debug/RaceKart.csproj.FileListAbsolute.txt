@@ -1,0 +1,20 @@
+D:\Utilities\Programing\Repos\RaceKart\RaceKart\bin\Debug\RaceKart.exe.config
+D:\Utilities\Programing\Repos\RaceKart\RaceKart\bin\Debug\RaceKart.exe
+D:\Utilities\Programing\Repos\RaceKart\RaceKart\bin\Debug\RaceKart.pdb
+D:\Utilities\Programing\Repos\RaceKart\RaceKart\obj\Debug\RaceKart.csproj.AssemblyReference.cache
+D:\Utilities\Programing\Repos\RaceKart\RaceKart\obj\Debug\RaceKart.Form1.resources
+D:\Utilities\Programing\Repos\RaceKart\RaceKart\obj\Debug\RaceKart.Properties.Resources.resources
+D:\Utilities\Programing\Repos\RaceKart\RaceKart\obj\Debug\RaceKart.csproj.GenerateResource.cache
+D:\Utilities\Programing\Repos\RaceKart\RaceKart\obj\Debug\RaceKart.csproj.CoreCompileInputs.cache
+D:\Utilities\Programing\Repos\RaceKart\RaceKart\obj\Debug\RaceKart.exe
+D:\Utilities\Programing\Repos\RaceKart\RaceKart\obj\Debug\RaceKart.pdb
+D:\Utilities\Programing\Repos\C# .Net\RaceKart\RaceKart\bin\Debug\RaceKart.exe.config
+D:\Utilities\Programing\Repos\C# .Net\RaceKart\RaceKart\bin\Debug\RaceKart.exe
+D:\Utilities\Programing\Repos\C# .Net\RaceKart\RaceKart\bin\Debug\RaceKart.pdb
+D:\Utilities\Programing\Repos\C# .Net\RaceKart\RaceKart\obj\Debug\RaceKart.csproj.AssemblyReference.cache
+D:\Utilities\Programing\Repos\C# .Net\RaceKart\RaceKart\obj\Debug\RaceKart.Form1.resources
+D:\Utilities\Programing\Repos\C# .Net\RaceKart\RaceKart\obj\Debug\RaceKart.Properties.Resources.resources
+D:\Utilities\Programing\Repos\C# .Net\RaceKart\RaceKart\obj\Debug\RaceKart.csproj.GenerateResource.cache
+D:\Utilities\Programing\Repos\C# .Net\RaceKart\RaceKart\obj\Debug\RaceKart.csproj.CoreCompileInputs.cache
+D:\Utilities\Programing\Repos\C# .Net\RaceKart\RaceKart\obj\Debug\RaceKart.exe
+D:\Utilities\Programing\Repos\C# .Net\RaceKart\RaceKart\obj\Debug\RaceKart.pdb

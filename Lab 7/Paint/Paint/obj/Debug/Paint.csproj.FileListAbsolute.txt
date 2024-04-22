@@ -1,0 +1,15 @@
+D:\Utilities\Programing\Repos\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Utilities\Programing\Repos\Paint\Paint\bin\Debug\Paint.exe
+D:\Utilities\Programing\Repos\Paint\Paint\bin\Debug\Paint.pdb
+D:\Utilities\Programing\Repos\Paint\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+D:\Utilities\Programing\Repos\Paint\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+D:\Utilities\Programing\Repos\Paint\Paint\obj\Debug\Paint.MainForm.resources
+D:\Utilities\Programing\Repos\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Utilities\Programing\Repos\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\Utilities\Programing\Repos\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\Utilities\Programing\Repos\Paint\Paint\obj\Debug\Paint.exe
+D:\Utilities\Programing\Repos\Paint\Paint\obj\Debug\Paint.pdb
+D:\Utilities\Programing\Repos\Paint\Paint\bin\Debug\Paint.exe.manifest
+D:\Utilities\Programing\Repos\Paint\Paint\bin\Debug\Paint.application
+D:\Utilities\Programing\Repos\Paint\Paint\obj\Debug\Paint.exe.manifest
+D:\Utilities\Programing\Repos\Paint\Paint\obj\Debug\Paint.application

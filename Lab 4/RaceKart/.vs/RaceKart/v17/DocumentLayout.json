@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Utilities\\Programing\\Repos\\C# .Net\\RaceKart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE22106A-D8AB-48D0-A7F8-EA3716657EB8}|RaceKart\\RaceKart.csproj|d:\\utilities\\programing\\repos\\c# .net\\racekart\\racekart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE22106A-D8AB-48D0-A7F8-EA3716657EB8}|RaceKart\\RaceKart.csproj|solutionrelative:racekart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE22106A-D8AB-48D0-A7F8-EA3716657EB8}|RaceKart\\RaceKart.csproj|D:\\Utilities\\Programing\\Repos\\C# .Net\\RaceKart\\racekart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE22106A-D8AB-48D0-A7F8-EA3716657EB8}|RaceKart\\RaceKart.csproj|solutionrelative:racekart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE22106A-D8AB-48D0-A7F8-EA3716657EB8}|RaceKart\\RaceKart.csproj|D:\\Utilities\\Programing\\Repos\\C# .Net\\RaceKart\\racekart\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{CE22106A-D8AB-48D0-A7F8-EA3716657EB8}|RaceKart\\RaceKart.csproj|solutionrelative:racekart\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE22106A-D8AB-48D0-A7F8-EA3716657EB8}|RaceKart\\RaceKart.csproj|D:\\Utilities\\Programing\\Repos\\C# .Net\\RaceKart\\racekart\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE22106A-D8AB-48D0-A7F8-EA3716657EB8}|RaceKart\\RaceKart.csproj|solutionrelative:racekart\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE22106A-D8AB-48D0-A7F8-EA3716657EB8}|RaceKart\\RaceKart.csproj|D:\\Utilities\\Programing\\Repos\\C# .Net\\RaceKart\\racekart\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE22106A-D8AB-48D0-A7F8-EA3716657EB8}|RaceKart\\RaceKart.csproj|solutionrelative:racekart\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Utilities\\Programing\\Repos\\C# .Net\\RaceKart\\RaceKart\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "RaceKart\\Form1.Designer.cs",
+              "ToolTip": "D:\\Utilities\\Programing\\Repos\\C# .Net\\RaceKart\\RaceKart\\Form1.Designer.cs",
+              "RelativeToolTip": "RaceKart\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-19T14:33:21.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Utilities\\Programing\\Repos\\C# .Net\\RaceKart\\RaceKart\\Form1.cs",
+              "RelativeDocumentMoniker": "RaceKart\\Form1.cs",
+              "ToolTip": "D:\\Utilities\\Programing\\Repos\\C# .Net\\RaceKart\\RaceKart\\Form1.cs",
+              "RelativeToolTip": "RaceKart\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:33:21.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\Utilities\\Programing\\Repos\\C# .Net\\RaceKart\\RaceKart\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "RaceKart\\Properties\\Resources.resx",
+              "ToolTip": "D:\\Utilities\\Programing\\Repos\\C# .Net\\RaceKart\\RaceKart\\Properties\\Resources.resx",
+              "RelativeToolTip": "RaceKart\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002870|",
+              "WhenOpened": "2024-04-19T14:33:21.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Utilities\\Programing\\Repos\\C# .Net\\RaceKart\\RaceKart\\Form1.cs",
+              "RelativeDocumentMoniker": "RaceKart\\Form1.cs",
+              "ToolTip": "D:\\Utilities\\Programing\\Repos\\RaceKart\\RaceKart\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\RaceKart\\RaceKart\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-19T14:33:21.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "D:\\Utilities\\Programing\\Repos\\C# .Net\\RaceKart\\RaceKart\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "RaceKart\\Properties\\Resources.Designer.cs",
+              "ToolTip": "D:\\Utilities\\Programing\\Repos\\C# .Net\\RaceKart\\RaceKart\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "RaceKart\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-04-19T14:33:21.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
