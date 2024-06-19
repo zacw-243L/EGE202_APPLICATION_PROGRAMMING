@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Utilities\\Programing\\Repos\\C# .Net\\NoteApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8BA725-65E4-4DD9-89A6-95DF04285E25}|NoteApp\\NoteApp.csproj|d:\\utilities\\programing\\repos\\c# .net\\noteapp\\noteapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E8BA725-65E4-4DD9-89A6-95DF04285E25}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8BA725-65E4-4DD9-89A6-95DF04285E25}|NoteApp\\NoteApp.csproj|D:\\Utilities\\Programing\\Repos\\C# .Net\\NoteApp\\noteapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E8BA725-65E4-4DD9-89A6-95DF04285E25}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Utilities\\Programing\\Repos\\C# .Net\\NoteApp\\NoteApp\\Form1.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Form1.cs",
+              "ToolTip": "D:\\Utilities\\Programing\\Repos\\C# .Net\\NoteApp\\NoteApp\\Form1.cs",
+              "RelativeToolTip": "NoteApp\\Form1.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAiwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:35:26.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Utilities\\Programing\\Repos\\C# .Net\\NoteApp\\NoteApp\\Form1.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Form1.cs",
+              "ToolTip": "D:\\Utilities\\Programing\\Repos\\C# .Net\\NoteApp\\NoteApp\\Form1.cs [Design]",
+              "RelativeToolTip": "NoteApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:35:26.919Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
