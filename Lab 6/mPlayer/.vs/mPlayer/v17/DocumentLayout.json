@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 6\\mPlayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF644028-5D32-4FC3-8B6C-C92F9DB3B8BA}|mPlayer\\mPlayer.csproj|c:\\github staging area\\ege202_application_programming\\lab 6\\mplayer\\mplayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF644028-5D32-4FC3-8B6C-C92F9DB3B8BA}|mPlayer\\mPlayer.csproj|solutionrelative:mplayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF644028-5D32-4FC3-8B6C-C92F9DB3B8BA}|mPlayer\\mPlayer.csproj|C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 6\\mPlayer\\mplayer\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF644028-5D32-4FC3-8B6C-C92F9DB3B8BA}|mPlayer\\mPlayer.csproj|solutionrelative:mplayer\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF644028-5D32-4FC3-8B6C-C92F9DB3B8BA}|mPlayer\\mPlayer.csproj|C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 6\\mPlayer\\mplayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF644028-5D32-4FC3-8B6C-C92F9DB3B8BA}|mPlayer\\mPlayer.csproj|solutionrelative:mplayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 6\\mPlayer\\mPlayer\\Form1.cs",
+              "RelativeDocumentMoniker": "mPlayer\\Form1.cs",
+              "ToolTip": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 6\\mPlayer\\mPlayer\\Form1.cs",
+              "RelativeToolTip": "mPlayer\\Form1.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:33:14.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 6\\mPlayer\\mPlayer\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "mPlayer\\Form1.Designer.cs",
+              "ToolTip": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 6\\mPlayer\\mPlayer\\Form1.Designer.cs",
+              "RelativeToolTip": "mPlayer\\Form1.Designer.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAYwG8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:33:14.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 6\\mPlayer\\mPlayer\\Form1.cs",
+              "RelativeDocumentMoniker": "mPlayer\\Form1.cs",
+              "ToolTip": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 6\\mPlayer\\mPlayer\\Form1.cs [Design]",
+              "RelativeToolTip": "mPlayer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:33:15.422Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

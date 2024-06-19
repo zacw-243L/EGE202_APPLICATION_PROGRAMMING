@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Utilities\\Programing\\Repos\\C# .Net\\Converter\\",
+  "WorkspaceRootPath": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 3\\Converter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AF207DC-5599-49F4-AD6F-F6B4AC9AE4C9}|Converter\\Converter.csproj|d:\\utilities\\programing\\repos\\c# .net\\converter\\converter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AF207DC-5599-49F4-AD6F-F6B4AC9AE4C9}|Converter\\Converter.csproj|c:\\github staging area\\ege202_application_programming\\lab 3\\converter\\converter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AF207DC-5599-49F4-AD6F-F6B4AC9AE4C9}|Converter\\Converter.csproj|solutionrelative:converter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AF207DC-5599-49F4-AD6F-F6B4AC9AE4C9}|Converter\\Converter.csproj|D:\\Utilities\\Programing\\Repos\\C# .Net\\Converter\\converter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1AF207DC-5599-49F4-AD6F-F6B4AC9AE4C9}|Converter\\Converter.csproj|C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 3\\Converter\\converter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1AF207DC-5599-49F4-AD6F-F6B4AC9AE4C9}|Converter\\Converter.csproj|solutionrelative:converter\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Utilities\\Programing\\Repos\\C# .Net\\Converter\\Converter\\Form1.cs",
+              "DocumentMoniker": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 3\\Converter\\Converter\\Form1.cs",
               "RelativeDocumentMoniker": "Converter\\Form1.cs",
-              "ToolTip": "D:\\Utilities\\Programing\\Repos\\C# .Net\\Converter\\Converter\\Form1.cs",
+              "ToolTip": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 3\\Converter\\Converter\\Form1.cs",
               "RelativeToolTip": "Converter\\Form1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,10 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Utilities\\Programing\\Repos\\C# .Net\\Converter\\Converter\\Form1.cs",
+              "DocumentMoniker": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 3\\Converter\\Converter\\Form1.cs",
               "RelativeDocumentMoniker": "Converter\\Form1.cs",
               "ToolTip": "D:\\Utilities\\Programing\\Repos\\Converter\\Converter\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\Converter\\Converter\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
               "WhenOpened": "2024-04-19T14:26:29.354Z"
             }

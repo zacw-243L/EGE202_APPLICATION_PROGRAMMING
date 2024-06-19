@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Utilities\\Programing\\Repos\\C# .Net\\Calculator\\",
+  "WorkspaceRootPath": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 5\\Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93B92BA9-3337-4D77-83C5-FE8809A00823}|Calculator\\Calculator.csproj|D:\\Utilities\\Programing\\Repos\\C# .Net\\Calculator\\calculator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{93B92BA9-3337-4D77-83C5-FE8809A00823}|Calculator\\Calculator.csproj|c:\\github staging area\\ege202_application_programming\\lab 5\\calculator\\calculator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{93B92BA9-3337-4D77-83C5-FE8809A00823}|Calculator\\Calculator.csproj|solutionrelative:calculator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93B92BA9-3337-4D77-83C5-FE8809A00823}|Calculator\\Calculator.csproj|d:\\utilities\\programing\\repos\\c# .net\\calculator\\calculator\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{93B92BA9-3337-4D77-83C5-FE8809A00823}|Calculator\\Calculator.csproj|C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 5\\Calculator\\calculator\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93B92BA9-3337-4D77-83C5-FE8809A00823}|Calculator\\Calculator.csproj|solutionrelative:calculator\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93B92BA9-3337-4D77-83C5-FE8809A00823}|Calculator\\Calculator.csproj|D:\\Utilities\\Programing\\Repos\\C# .Net\\Calculator\\calculator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{93B92BA9-3337-4D77-83C5-FE8809A00823}|Calculator\\Calculator.csproj|C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 5\\Calculator\\calculator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93B92BA9-3337-4D77-83C5-FE8809A00823}|Calculator\\Calculator.csproj|solutionrelative:calculator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93B92BA9-3337-4D77-83C5-FE8809A00823}|Calculator\\Calculator.csproj|D:\\Utilities\\Programing\\Repos\\C# .Net\\Calculator\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{93B92BA9-3337-4D77-83C5-FE8809A00823}|Calculator\\Calculator.csproj|C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 5\\Calculator\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93B92BA9-3337-4D77-83C5-FE8809A00823}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\Utilities\\Programing\\Repos\\C# .Net\\Calculator\\Calculator\\MainForm.cs",
+              "DocumentMoniker": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 5\\Calculator\\Calculator\\MainForm.cs",
               "RelativeDocumentMoniker": "Calculator\\MainForm.cs",
-              "ToolTip": "D:\\Utilities\\Programing\\Repos\\C# .Net\\Calculator\\Calculator\\MainForm.cs",
+              "ToolTip": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 5\\Calculator\\Calculator\\MainForm.cs",
               "RelativeToolTip": "Calculator\\MainForm.cs",
               "ViewState": "AQIAAFYAAAAAAAAAAAAwwH8AAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -45,9 +45,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Utilities\\Programing\\Repos\\C# .Net\\Calculator\\Calculator\\Program.cs",
+              "DocumentMoniker": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 5\\Calculator\\Calculator\\Program.cs",
               "RelativeDocumentMoniker": "Calculator\\Program.cs",
-              "ToolTip": "D:\\Utilities\\Programing\\Repos\\C# .Net\\Calculator\\Calculator\\Program.cs",
+              "ToolTip": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 5\\Calculator\\Calculator\\Program.cs",
               "RelativeToolTip": "Calculator\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -57,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "D:\\Utilities\\Programing\\Repos\\C# .Net\\Calculator\\Calculator\\MainForm.cs",
+              "DocumentMoniker": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 5\\Calculator\\Calculator\\MainForm.cs",
               "RelativeDocumentMoniker": "Calculator\\MainForm.cs",
-              "ToolTip": "D:\\Utilities\\Programing\\Repos\\C# .Net\\Calculator\\Calculator\\MainForm.cs [Design]",
+              "ToolTip": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 5\\Calculator\\Calculator\\MainForm.cs [Design]",
               "RelativeToolTip": "Calculator\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T07:17:15.714Z",
@@ -69,14 +69,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "D:\\Utilities\\Programing\\Repos\\C# .Net\\Calculator\\Calculator\\MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 5\\Calculator\\Calculator\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "Calculator\\MainForm.Designer.cs",
-              "ToolTip": "D:\\Utilities\\Programing\\Repos\\C# .Net\\Calculator\\Calculator\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 5\\Calculator\\Calculator\\MainForm.Designer.cs",
               "RelativeToolTip": "Calculator\\MainForm.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAK8BAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T07:17:15.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T07:17:15.715Z"
             }
           ]
         }

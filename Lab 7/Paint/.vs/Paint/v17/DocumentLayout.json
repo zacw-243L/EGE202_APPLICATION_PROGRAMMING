@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Utilities\\Programing\\Repos\\C# .Net\\Paint\\",
+  "WorkspaceRootPath": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 7\\Paint\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F32D456-A479-4610-8E93-B5F5CF150E67}|Paint\\Paint.csproj|D:\\Utilities\\Programing\\Repos\\C# .Net\\Paint\\paint\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0F32D456-A479-4610-8E93-B5F5CF150E67}|Paint\\Paint.csproj|c:\\github staging area\\ege202_application_programming\\lab 7\\paint\\paint\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0F32D456-A479-4610-8E93-B5F5CF150E67}|Paint\\Paint.csproj|solutionrelative:paint\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F32D456-A479-4610-8E93-B5F5CF150E67}|Paint\\Paint.csproj|D:\\Utilities\\Programing\\Repos\\C# .Net\\Paint\\paint\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F32D456-A479-4610-8E93-B5F5CF150E67}|Paint\\Paint.csproj|C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 7\\Paint\\paint\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F32D456-A479-4610-8E93-B5F5CF150E67}|Paint\\Paint.csproj|solutionrelative:paint\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F32D456-A479-4610-8E93-B5F5CF150E67}|Paint\\Paint.csproj|d:\\utilities\\programing\\repos\\c# .net\\paint\\paint\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F32D456-A479-4610-8E93-B5F5CF150E67}|Paint\\Paint.csproj|C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 7\\Paint\\paint\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F32D456-A479-4610-8E93-B5F5CF150E67}|Paint\\Paint.csproj|solutionrelative:paint\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F32D456-A479-4610-8E93-B5F5CF150E67}|Paint\\Paint.csproj|D:\\Utilities\\Programing\\Repos\\C# .Net\\Paint\\paint\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{0F32D456-A479-4610-8E93-B5F5CF150E67}|Paint\\Paint.csproj|C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 7\\Paint\\paint\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{0F32D456-A479-4610-8E93-B5F5CF150E67}|Paint\\Paint.csproj|solutionrelative:paint\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Resources.resx",
-              "DocumentMoniker": "D:\\Utilities\\Programing\\Repos\\C# .Net\\Paint\\Paint\\Properties\\Resources.resx",
+              "DocumentMoniker": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 7\\Paint\\Paint\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "Paint\\Properties\\Resources.resx",
-              "ToolTip": "D:\\Utilities\\Programing\\Repos\\C# .Net\\Paint\\Paint\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 7\\Paint\\Paint\\Properties\\Resources.resx",
               "RelativeToolTip": "Paint\\Properties\\Resources.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2024-04-20T14:55:02.575Z",
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\Utilities\\Programing\\Repos\\C# .Net\\Paint\\Paint\\MainForm.cs",
+              "DocumentMoniker": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 7\\Paint\\Paint\\MainForm.cs",
               "RelativeDocumentMoniker": "Paint\\MainForm.cs",
-              "ToolTip": "D:\\Utilities\\Programing\\Repos\\C# .Net\\Paint\\Paint\\MainForm.cs",
+              "ToolTip": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 7\\Paint\\Paint\\MainForm.cs",
               "RelativeToolTip": "Paint\\MainForm.cs",
               "ViewState": "AQIAAGIAAAAAAAAAAAAAwEQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -57,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "D:\\Utilities\\Programing\\Repos\\C# .Net\\Paint\\Paint\\MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 7\\Paint\\Paint\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "Paint\\MainForm.Designer.cs",
-              "ToolTip": "D:\\Utilities\\Programing\\Repos\\C# .Net\\Paint\\Paint\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 7\\Paint\\Paint\\MainForm.Designer.cs",
               "RelativeToolTip": "Paint\\MainForm.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -70,9 +70,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "D:\\Utilities\\Programing\\Repos\\C# .Net\\Paint\\Paint\\MainForm.cs",
+              "DocumentMoniker": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 7\\Paint\\Paint\\MainForm.cs",
               "RelativeDocumentMoniker": "Paint\\MainForm.cs",
-              "ToolTip": "D:\\Utilities\\Programing\\Repos\\C# .Net\\Paint\\Paint\\MainForm.cs [Design]",
+              "ToolTip": "C:\\Github staging area\\EGE202_APPLICATION_PROGRAMMING\\Lab 7\\Paint\\Paint\\MainForm.cs [Design]",
               "RelativeToolTip": "Paint\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T14:55:02.724Z",
