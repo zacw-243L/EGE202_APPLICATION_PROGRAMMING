@@ -16,5 +16,10 @@ namespace ChatBotServer
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            this.webBrowser1.Navigate("https://www.telegram.org/");
+        }
     }
 }

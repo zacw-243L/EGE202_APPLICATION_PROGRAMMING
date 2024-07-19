@@ -1,0 +1,10 @@
+D:\Utilities\Programing\Repos\C# .Net\ChatBotServer\ChatBotServer\bin\Debug\ChatBotServer.exe.config
+D:\Utilities\Programing\Repos\C# .Net\ChatBotServer\ChatBotServer\bin\Debug\ChatBotServer.exe
+D:\Utilities\Programing\Repos\C# .Net\ChatBotServer\ChatBotServer\bin\Debug\ChatBotServer.pdb
+D:\Utilities\Programing\Repos\C# .Net\ChatBotServer\ChatBotServer\obj\Debug\ChatBotServer.csproj.AssemblyReference.cache
+D:\Utilities\Programing\Repos\C# .Net\ChatBotServer\ChatBotServer\obj\Debug\ChatBotServer.Form1.resources
+D:\Utilities\Programing\Repos\C# .Net\ChatBotServer\ChatBotServer\obj\Debug\ChatBotServer.Properties.Resources.resources
+D:\Utilities\Programing\Repos\C# .Net\ChatBotServer\ChatBotServer\obj\Debug\ChatBotServer.csproj.GenerateResource.cache
+D:\Utilities\Programing\Repos\C# .Net\ChatBotServer\ChatBotServer\obj\Debug\ChatBotServer.csproj.CoreCompileInputs.cache
+D:\Utilities\Programing\Repos\C# .Net\ChatBotServer\ChatBotServer\obj\Debug\ChatBotServer.exe
+D:\Utilities\Programing\Repos\C# .Net\ChatBotServer\ChatBotServer\obj\Debug\ChatBotServer.pdb
